@@ -3,7 +3,7 @@ author: Amr Alshatnawi and Barbara J Thompson
 
 logo: ../css/logo.png
 
-baseurl: "/site" # the subpath of your site, e.g. /blog
+baseurl: "/HSOConnect/site" # the subpath of your site, e.g. /blog
 
 html: 
   favicon: logo.png
